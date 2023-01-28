@@ -1,0 +1,20 @@
+.header {
+  background-color: #fbb6b6;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-size: 18px
+}
+
+#title {
+  color: #0019f4;
+  font-size: 36px;
+}
+
+.larger-font {
+  font-size: 24px;
+}
+
+#section {
+  background-color: #90EE90;
+  font-weight:bold
+}
+
